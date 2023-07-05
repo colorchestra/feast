@@ -9,7 +9,7 @@
 		{{ end }}
 		
 		<ul>
-		    {{ range .Paginator.Pages }}
+		    {{ range (.Paginate ( first 100 .Pages.ByTitle )).Pages }}
 		    <li>
 		        <div class="post-title">
 				{{ if eq $listtitle "Posts" }}
