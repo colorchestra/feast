@@ -1,4 +1,11 @@
-# smol
+## TODO
+- header font aussuchen und einbauen
+- posts liste mit mehr einträgen
+
+
+vvv WIP vvv
+
+# ~~smol~~
 
 A minimal, monospaced blogging theme for Hugo that respects your privacy and is easy on your bandwidth. A demo can be found at https://smol-demo.morph.sh.
 
